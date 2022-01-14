@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the badge&logo=Kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the badge&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C#-F7DF1E?style=for-the badge&logo=CSharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C Sharp-F7DF1E?style=for-the badge&logo=C Sharp&logoColor=FFFFFF"/>
 </div>
 
 <h3>Front</h3>
