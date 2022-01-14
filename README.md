@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>Back</h3>
+<div>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the badge&logo=Kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-F7DF1E?style=for-the badge&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C#-F7DF1E?style=for-the badge&logo=C Sharp&logoColor=FFFFFF"/>
+</div>
+
 <h3>Front</h3>
 <div>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the badge&logo=CSS3&logoColor=FFFFFF"/>
