@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h3>Back</h3>
 <div>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the badge&logo=Kotlin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C-F7DF1E?style=for-the badge&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C Sharp-F7DF1E?style=for-the badge&logo=C Sharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-orange?style=for-the badge&logo=Kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-informational?style=for-the badge&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C Sharp-success?style=for-the badge&logo=C Sharp&logoColor=FFFFFF"/>
 </div>
 
 <h3>Front</h3>
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <h3>Back</h3>
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the badge&logo=Hibernate&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the badge&logo=Spring&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the badge&logo=SpringBoot&logoColor=FFFFFF"/>
