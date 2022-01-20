@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 <hr>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndaegeun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=default&hide_border=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=show5116&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=show5116&theme=github_dark&layout=default&hide_border=true&hide_title=true)
