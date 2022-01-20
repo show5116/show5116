@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Back</h3>
+<h3>Language</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-orange?style=for-the badge&logo=Kotlin&logoColor=FFFFFF"/>
